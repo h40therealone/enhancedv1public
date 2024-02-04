@@ -1,0 +1,2 @@
+does camera stuff so basically just val 1 is the property of default 
+cam zoom you wanna do

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="die.png">
+<SubTexture name="a0000" x="0" y="0" width="286" height="289" frameX="-26" frameY="-28" frameWidth="347" frameHeight="341" />
+<SubTexture name="b0000" x="480" y="0" width="250" height="250" frameX="0" frameY="0" frameWidth="250" frameHeight="250" />
+<SubTexture name="c0000" x="286" y="0" width="194" height="259" frameX="0" frameY="0" frameWidth="194" frameHeight="259" />
+</TextureAtlas>

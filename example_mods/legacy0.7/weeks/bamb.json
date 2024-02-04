@@ -1,0 +1,41 @@
+{
+	"storyName": "THIS is my streets!!!",
+	"difficulties": "easy, Normal, hard",
+	"hideFreeplay": false,
+	"weekBackground": "bambi",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"roads",
+			"jsbambi",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"my-streets",
+			"jsbambi",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Reality 1 - Bambi",
+	"hiddenUntilUnlocked": false
+}

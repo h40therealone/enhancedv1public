@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="beast.png">
+<SubTexture name="idle0000" x="0" y="541" width="272" height="412" frameX="-187" frameY="-140" frameWidth="640" frameHeight="640" />
+<SubTexture name="idle0001" x="724" y="0" width="265" height="420" frameX="-193" frameY="-131" frameWidth="640" frameHeight="640" />
+<SubTexture name="idle0002" x="463" y="0" width="261" height="425" frameX="-195" frameY="-126" frameWidth="640" frameHeight="640" />
+<SubTexture name="idle0003" x="209" y="0" width="254" height="434" frameX="-198" frameY="-117" frameWidth="640" frameHeight="640" />
+<SubTexture name="left0000" x="989" y="0" width="436" height="258" frameX="-25" frameY="-171" frameWidth="640" frameHeight="640" />
+<SubTexture name="right0000" x="272" y="541" width="437" height="260" frameX="-181" frameY="-237" frameWidth="640" frameHeight="640" />
+<SubTexture name="up0000" x="0" y="0" width="209" height="541" frameX="-211" frameY="-10" frameWidth="640" frameHeight="640" />
+<SubTexture name="down0000" x="989" y="258" width="427" height="235" frameX="-128" frameY="-311" frameWidth="640" frameHeight="640" />
+</TextureAtlas>

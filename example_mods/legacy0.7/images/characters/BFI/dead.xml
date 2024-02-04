@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dead.png">
+<SubTexture name="elim0000" x="0" y="0" width="445" height="412" frameX="-80" frameY="-114" frameWidth="640" frameHeight="640" />
+<SubTexture name="elim0001" x="445" y="0" width="435" height="409" frameX="-80" frameY="-118" frameWidth="640" frameHeight="640" />
+<SubTexture name="elim0002" x="445" y="0" width="435" height="409" frameX="-80" frameY="-118" frameWidth="640" frameHeight="640" />
+<SubTexture name="elim0003" x="0" y="412" width="435" height="409" frameX="-80" frameY="-118" frameWidth="640" frameHeight="640" />
+<SubTexture name="elim0004" x="435" y="412" width="435" height="409" frameX="-80" frameY="-118" frameWidth="640" frameHeight="640" />
+<SubTexture name="elim0005" x="880" y="0" width="429" height="394" frameX="-80" frameY="-120" frameWidth="640" frameHeight="640" />
+<SubTexture name="loop0000" x="880" y="394" width="342" height="289" frameX="-145" frameY="-132" frameWidth="640" frameHeight="640" />
+<SubTexture name="retry0000" x="1309" y="0" width="372" height="267" frameX="-144" frameY="-133" frameWidth="640" frameHeight="640" />
+<SubTexture name="retry0001" x="744" y="821" width="372" height="267" frameX="-144" frameY="-133" frameWidth="640" frameHeight="640" />
+<SubTexture name="retry0002" x="372" y="821" width="372" height="267" frameX="-144" frameY="-133" frameWidth="640" frameHeight="640" />
+<SubTexture name="retry0003" x="0" y="821" width="372" height="267" frameX="-144" frameY="-133" frameWidth="640" frameHeight="640" />
+</TextureAtlas>

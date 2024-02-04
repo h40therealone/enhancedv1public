@@ -1,0 +1,76 @@
+{
+	"position": [
+		140,
+		70
+	],
+	"dialogue_pos": "left",
+	"scale": 1.3,
+	"image": "dav",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "scared",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "a",
+			"idle_name": "a"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "bruh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "d",
+			"idle_name": "d"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "smileA",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "b",
+			"idle_name": "b"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "smileB",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "c",
+			"idle_name": "c"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "ohioshock",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "e",
+			"idle_name": "e"
+		}
+	]
+}

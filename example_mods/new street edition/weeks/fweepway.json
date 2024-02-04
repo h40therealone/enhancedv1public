@@ -1,0 +1,77 @@
+{
+	"storyName": "freeplay (you not supposed to see THIS!!!!",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "add",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "dave",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"composition",
+			"composer",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"the-beast",
+			"msbeast",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"green",
+			"jsbambi",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"oklahoma",
+			"jimbio",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"ithotmk",
+			"dave",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"duhkazlah",
+			"evilbamb",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "freeplay week",
+	"hiddenUntilUnlocked": true
+}

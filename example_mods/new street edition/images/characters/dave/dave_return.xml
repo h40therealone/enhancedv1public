@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dave_return.png">
+<SubTexture name="dave_return idle0000" x="0" y="969" width="240" height="452" frameX="-174" frameY="-119" frameWidth="640" frameHeight="640" />
+<SubTexture name="dave_return idle0001" x="0" y="969" width="240" height="452" frameX="-174" frameY="-119" frameWidth="640" frameHeight="640" />
+<SubTexture name="dave_return idle0002" x="232" y="504" width="235" height="460" frameX="-176" frameY="-111" frameWidth="640" frameHeight="640" />
+<SubTexture name="dave_return idle0003" x="0" y="504" width="232" height="465" frameX="-177" frameY="-106" frameWidth="640" frameHeight="640" />
+<SubTexture name="dave_return idle0004" x="932" y="0" width="227" height="476" frameX="-181" frameY="-96" frameWidth="640" frameHeight="640" />
+<SubTexture name="dave_return idle0005" x="932" y="0" width="227" height="476" frameX="-181" frameY="-96" frameWidth="640" frameHeight="640" />
+<SubTexture name="dave_return idle0006" x="712" y="0" width="220" height="483" frameX="-185" frameY="-89" frameWidth="640" frameHeight="640" />
+<SubTexture name="dave_return idle0007" x="712" y="0" width="220" height="483" frameX="-185" frameY="-89" frameWidth="640" frameHeight="640" />
+<SubTexture name="dave_return left0000" x="526" y="969" width="290" height="446" frameX="-98" frameY="-126" frameWidth="640" frameHeight="640" />
+<SubTexture name="dave_return left0001" x="816" y="969" width="281" height="445" frameX="-108" frameY="-127" frameWidth="640" frameHeight="640" />
+<SubTexture name="dave_return left0002" x="1097" y="969" width="273" height="441" frameX="-120" frameY="-131" frameWidth="640" frameHeight="640" />
+<SubTexture name="dave_return up0000" x="0" y="0" width="227" height="504" frameX="-194" frameY="-68" frameWidth="640" frameHeight="640" />
+<SubTexture name="dave_return up0001" x="227" y="0" width="238" height="496" frameX="-189" frameY="-76" frameWidth="640" frameHeight="640" />
+<SubTexture name="dave_return up0002" x="465" y="0" width="247" height="490" frameX="-185" frameY="-82" frameWidth="640" frameHeight="640" />
+<SubTexture name="dave_return right0000" x="467" y="504" width="246" height="458" frameX="-237" frameY="-114" frameWidth="640" frameHeight="640" />
+<SubTexture name="dave_return right0001" x="713" y="504" width="238" height="457" frameX="-236" frameY="-115" frameWidth="640" frameHeight="640" />
+<SubTexture name="dave_return right0002" x="1159" y="456" width="230" height="454" frameX="-235" frameY="-118" frameWidth="640" frameHeight="640" />
+<SubTexture name="dave_return down0000" x="1437" y="0" width="302" height="441" frameX="-154" frameY="-131" frameWidth="640" frameHeight="640" />
+<SubTexture name="dave_return down0001" x="240" y="969" width="286" height="448" frameX="-162" frameY="-124" frameWidth="640" frameHeight="640" />
+<SubTexture name="dave_return down0002" x="1159" y="0" width="278" height="456" frameX="-168" frameY="-116" frameWidth="640" frameHeight="640" />
+</TextureAtlas>

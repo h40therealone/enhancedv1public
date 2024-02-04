@@ -1,0 +1,32 @@
+{
+	"storyName": "the road guy or something",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "baubi",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"workshop",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Reality 24 - The Workshop",
+	"hiddenUntilUnlocked": false
+}

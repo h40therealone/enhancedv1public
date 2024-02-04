@@ -1,0 +1,6 @@
+value 1 - set it to????
+value 2 - duration
+does a tween on lite with easing sineinout
+TO ONLY BE USED WHEN OBJECT "LITE" IS PRESENT!
+TO ANYONE TRYING TO USE THE EVENTS HERE IT IS ONLY FOR
+THE CITY STAGE

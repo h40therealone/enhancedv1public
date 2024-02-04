@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "die",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hello there! my names bambi and I uhhh, welcome to my streets!"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hi bambi from fnf vs dave and bambi"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wanna sing"
+		},
+		{
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "die",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "of course! I love singing! its my favorite thing to do!"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "great to hear!"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "now lets sing this 4 minute song"
+		},
+		{
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "die",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "got it!"
+		}
+	]
+}

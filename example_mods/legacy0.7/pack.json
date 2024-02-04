@@ -1,0 +1,9 @@
+{
+	"name": "LEGACY 0.7",
+	"description": "second build that was released to the devs, not much to be seen here but there is some legacy stuff",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 0, 255],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}

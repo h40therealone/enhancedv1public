@@ -1,0 +1,50 @@
+{
+	"storyName": "hey I know you two!!",
+	"difficulties": "easy, Normal, hard",
+	"hideFreeplay": false,
+	"weekBackground": "dave",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "bamb",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"daveing",
+			"dave",
+			[
+				155,
+				255,
+				255
+			]
+		],
+		[
+			"west-tennessee",
+			"dave",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"3dave",
+			"dave",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Reality 1 - Dave",
+	"hiddenUntilUnlocked": false
+}

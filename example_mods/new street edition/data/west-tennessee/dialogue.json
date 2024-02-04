@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "c",
+			"speed": 0.05,
+			"portrait": "dav",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "well looks like I lost"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what"
+		},
+		{
+			"sound": "c",
+			"speed": 0.05,
+			"portrait": "dav",
+			"boxState": "normal",
+			"expression": "smileB",
+			"text": "but im not done! I will beat you! this time!"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "beep bop skid dop"
+		},
+		{
+			"sound": "c",
+			"speed": 0.035,
+			"portrait": "dav",
+			"boxState": "normal",
+			"expression": "smileA",
+			"text": "well then lets see what you got!"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "WAIT hold on, I need you to tell me where we are!!!"
+		},
+		{
+			"sound": "c",
+			"speed": 0.05,
+			"portrait": "dav",
+			"boxState": "normal",
+			"expression": "ohioshock",
+			"text": "where we are???"
+		},
+		{
+			"sound": "c",
+			"speed": 0.05,
+			"portrait": "dav",
+			"boxState": "normal",
+			"expression": "smileB",
+			"text": "well my backyard of course so... "
+		},
+		{
+			"sound": "c",
+			"speed": 0.05,
+			"portrait": "dav",
+			"boxState": "normal",
+			"expression": "ohioshock",
+			"text": "oh well.."
+		},
+		{
+			"sound": "c",
+			"speed": 0.05,
+			"portrait": "dav",
+			"boxState": "normal",
+			"expression": "ohioshock",
+			"text": "there isnt much I can say here so uhhh"
+		},
+		{
+			"sound": "c",
+			"speed": 0.05,
+			"portrait": "dav",
+			"boxState": "normal",
+			"expression": "smileB",
+			"text": "lets go!!!"
+		}
+	]
+}

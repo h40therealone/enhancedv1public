@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dave? is that you?"
+		},
+		{
+			"sound": "c",
+			"speed": 0.05,
+			"portrait": "dav",
+			"boxState": "normal",
+			"expression": "ohioshock",
+			"text": "huh? wait you two? I thought, wait nevermind well uhhh"
+		},
+		{
+			"sound": "c",
+			"speed": 0.05,
+			"portrait": "dav",
+			"boxState": "normal",
+			"expression": "smileA",
+			"text": "you want to sing?"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dave what happened? are you okay?"
+		},
+		{
+			"sound": "c",
+			"speed": 0.05,
+			"portrait": "dav",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "well... I guess you could say im fine but... "
+		},
+		{
+			"sound": "c",
+			"speed": 0.05,
+			"portrait": "dav",
+			"boxState": "normal",
+			"expression": "smileB",
+			"text": "lets sing!"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep skid bop"
+		}
+	]
+}

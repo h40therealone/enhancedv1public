@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "dave_return idle"
+		},
+		{
+			"offsets": [
+				0,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "dave_return down"
+		},
+		{
+			"offsets": [
+				0,
+				41
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "dave_return right"
+		},
+		{
+			"offsets": [
+				0,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "dave_return up"
+		},
+		{
+			"offsets": [
+				-10,
+				43
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "dave_return left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dave/dave_return",
+	"position": [
+		-130,
+		210
+	],
+	"healthicon": "dave",
+	"flip_x": false,
+	"healthbar_colors": [
+		38,
+		55,
+		198
+	],
+	"camera_position": [
+		-20,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1.1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,131 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-14
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				10
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				8,
+				-14
+			],
+			"indices": [
+				3
+			],
+			"fps": 15,
+			"anim": "singLEFT-loop",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				10,
+				10
+			],
+			"indices": [
+				3
+			],
+			"fps": 12,
+			"anim": "singUP-loop",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-10,
+				-9
+			],
+			"indices": [
+				3
+			],
+			"fps": 12,
+			"anim": "singRIGHT-loop",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				29,
+				-20
+			],
+			"indices": [
+				3
+			],
+			"fps": 12,
+			"anim": "singDOWN-loop",
+			"loop": false,
+			"name": "down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ms/beast",
+	"position": [
+		-230,
+		90
+	],
+	"healthicon": "msbeast",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		152,
+		255
+	],
+	"camera_position": [
+		80,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}

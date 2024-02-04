@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "dave",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "dave",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "dave",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "dave",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "dave",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ms/dave",
+	"position": [
+		-80,
+		160
+	],
+	"healthicon": "msdave",
+	"flip_x": false,
+	"healthbar_colors": [
+		134,
+		206,
+		255
+	],
+	"camera_position": [
+		-150,
+		-80
+	],
+	"sing_duration": 8.00000000000001,
+	"scale": 1.2,
+	"_editor_isPlayer": false
+}

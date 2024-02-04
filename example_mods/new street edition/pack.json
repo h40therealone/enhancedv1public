@@ -1,0 +1,9 @@
+{
+	"name": "ENHANCED V1",
+	"description": "THIS IS THE CURRENT VERSION, ENABLE THIS IF YOU WOULD LIKE TO PLAY THE CURRENT VERSION OF THE MOD",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 0, 255],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}

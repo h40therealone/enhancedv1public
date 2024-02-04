@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "a",
+			"speed": 0.03,
+			"portrait": "die",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "really? how could I lose!!!! this is not fair you blue hair midget"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "says the person who is like 2 feet tall"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "also like uhhh I kinda have to go"
+		},
+		{
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "die",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dave will be seeing you next!!!!!"
+		},
+		{
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "die",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "and he will not hesitate to beat you, he will be here soon trust me you arent done yet!!!"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bop skididi dop dop yes yes"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I would win either way"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im going to my house and will sleep, ill sing with dave in the morning"
+		},
+		{
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "die",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok fine!!!!! atleast you got off my streets..."
+		}
+	]
+}

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="screwed.png">
+<SubTexture name="idle0000" x="684" y="0" width="624" height="708" frameX="-52" frameY="-76" frameWidth="800" frameHeight="800" />
+<SubTexture name="left0000" x="1308" y="0" width="560" height="688" frameX="-60" frameY="-104" frameWidth="800" frameHeight="800" />
+<SubTexture name="right0000" x="0" y="780" width="604" height="660" frameX="-180" frameY="-120" frameWidth="800" frameHeight="800" />
+<SubTexture name="up0000" x="0" y="0" width="684" height="780" frameX="-88" frameY="-4" frameWidth="800" frameHeight="800" />
+<SubTexture name="down0000" x="604" y="780" width="648" height="588" frameX="-60" frameY="-208" frameWidth="800" frameHeight="800" />
+</TextureAtlas>

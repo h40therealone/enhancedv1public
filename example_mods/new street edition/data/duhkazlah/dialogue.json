@@ -1,0 +1,164 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "is that evil bambi holy what the nahhh what",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.03,
+			"sound": "b"
+		},
+		{
+			"expression": "shocked",
+			"text": "please dont kill me evil bambi",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.02,
+			"sound": "b"
+		},
+		{
+			"expression": "confused",
+			"text": "guys dont trust evil bambi, guys what the hell is this, what in the actual ohio!",
+			"boxState": "normal",
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "guys this song might contain visuals that might be insane and might have mechanics that are way too hard cuz hes evil",
+			"boxState": "normal",
+			"sound": "b",
+			"speed": 0.02,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "please guys im not responsible for any harm caused by this mod, I am warning you",
+			"boxState": "normal",
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "it might do a pibby glitch and then everything will go down south so please listen when I say this is your warning",
+			"boxState": "normal",
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "not my fault if you didnt read the warning, you have been warned",
+			"boxState": "normal",
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "anyways evil bambi please stop you are scarys",
+			"boxState": "normal",
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"sound": "c",
+			"speed": 0.05,
+			"portrait": "dav",
+			"boxState": "normal",
+			"expression": "smileB",
+			"text": "hey there! we need to defeat evil bambi should I explain the basics to you?"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nah"
+		},
+		{
+			"sound": "c",
+			"speed": 0.05,
+			"portrait": "dav",
+			"boxState": "normal",
+			"expression": "ohioshock",
+			"text": "oh?? well too bad!!!!"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wai-"
+		},
+		{
+			"sound": "c",
+			"speed": 0.05,
+			"portrait": "dav",
+			"boxState": "normal",
+			"expression": "smileA",
+			"text": "biohazard notes will subtract 0.5 health from your health, but do not worry"
+		},
+		{
+			"sound": "c",
+			"speed": 0.035,
+			"portrait": "dav",
+			"boxState": "normal",
+			"expression": "smileB",
+			"text": "check out my stop notes! they are invented to combat the hazard notes bambi placed they will add 2 health so it should take"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no way!!!"
+		},
+		{
+			"sound": "c",
+			"speed": 0.05,
+			"portrait": "dav",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "also there is some also really annoying... mechanics that will probaly make you want to smash your pc"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "cap let me see this"
+		},
+		{
+			"sound": "c",
+			"speed": 0.05,
+			"portrait": "dav",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "final warning for anyone who didnt read this, this has visual effects like glitch, and screen tweening (moving) so yeah"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "press enter to continue "
+		},
+		{
+			"sound": "c",
+			"speed": 0.05,
+			"portrait": "dav",
+			"boxState": "normal",
+			"expression": "ohioshock",
+			"text": "npc ahh dialogue"
+		}
+	]
+}

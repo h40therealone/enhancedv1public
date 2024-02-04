@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "die",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "WHY! you make me lose?"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uhhh... happy new year!"
+		},
+		{
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "die",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I SAID Why you make me lose? you get off my streets!"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nah man my girlfriend can wait I wanna sing again"
+		},
+		{
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "die",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "NO! You get off my streets! Now! and never come back"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bro think he bambi"
+		},
+		{
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "die",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "DO YOU KNOW WHO YOU ARE TALKING TO?"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "idk man but these beats are fire"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "can we sing again"
+		},
+		{
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "die",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ILL MAKE SURE YOU LOSE!!!!!!"
+		},
+		{
+			"sound": "b",
+			"speed": 0.02,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "chill bro"
+		},
+		{
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "die",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "WHY YOU NOT SERIOUS? THIS IS mY STREETS!"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yo bro ill give you $500,000 if you can win this song"
+		},
+		{
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "die",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok then lets go!"
+		}
+	]
+}

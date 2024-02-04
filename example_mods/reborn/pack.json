@@ -1,0 +1,9 @@
+{
+	"name": "Vs reginald reborn: the horror movie",
+	"description": "Bazinga! This sure is a horror movie, and it's about reginald! (recomended that you disable any other mods to avoid assets conflicts, and also exiting this menu will crash the game but dont be alarmed it will work as intended on next launch) ",
+	"restart":true,
+	"runsGlobally": false,
+	"color": [170, 0, 255],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}

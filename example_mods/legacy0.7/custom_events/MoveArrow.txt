@@ -1,0 +1,11 @@
+Change Note Position
+----------------------------
+Value 1: Note (0-7)
+Value 2: x value, y value, rotation, opacity (0-1), duration
+---------------------------------------------------------------
+extra stuff :3
+ 0 - oppLEFT 1 - oppDOWN 2 - oppUP 3 - oppRIGHT
+-----------------------------------------------------
+ 4 - playLEFT 5 - playDOWN 6 - playUP 7 - playRIGHT
+
+enjoyy >w<

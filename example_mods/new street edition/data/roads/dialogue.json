@@ -1,0 +1,124 @@
+{
+	"dialogue": [
+		{
+			"sound": "a",
+			"speed": 0.035,
+			"portrait": "die",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey! you I know you! what you doing on MY STREETS?!"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bambi why are you 3d what happened"
+		},
+		{
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "die",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "DONT ASK QUESTIONS! YOUR ON MY STREETS!!!! get off NOW!!!"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bop skid bop boop bep"
+		},
+		{
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "die",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "if you DONT get off im gonna.... uhhh... what happened to my phone?"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "idk cuz I dont talk to beginners."
+		},
+		{
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "die",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I will uhhh... BLOCK YOU!!! block you from MY STREETS!!!!"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep boop bep beep skid bop"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "it means I do not care about your streets blah blah beep skibi bep"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so yeah, wanna sing?"
+		},
+		{
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "die",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "IM NOT PLAYING YOUR STUPID GAMES"
+		},
+		{
+			"sound": "b",
+			"speed": 0.045,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "my guy you have a microphone"
+		},
+		{
+			"sound": "a",
+			"speed": 0.04,
+			"portrait": "die",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait what? huh??? like actually? dude what the hell... huh?? say what???"
+		},
+		{
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sing or I will not get off your streets"
+		},
+		{
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "die",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im going to win dude! you get off my streets when song ends or ELSE!!!!"
+		}
+	]
+}

@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-1,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				27,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				1,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/oc/jimbiorizz",
+	"position": [
+		-80,
+		30
+	],
+	"healthicon": "jimbio",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		106,
+		0
+	],
+	"camera_position": [
+		80,
+		230
+	],
+	"sing_duration": 8.00000000000001,
+	"scale": 0.7,
+	"_editor_isPlayer": false
+}

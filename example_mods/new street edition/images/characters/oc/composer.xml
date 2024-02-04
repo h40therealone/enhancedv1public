@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="composer.png">
+<SubTexture name="composer idleA0000" x="1940" y="0" width="311" height="482" frameX="-207" frameY="-73" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer idleA0001" x="1940" y="0" width="311" height="482" frameX="-207" frameY="-73" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer idleA0002" x="293" y="1033" width="299" height="486" frameX="-206" frameY="-69" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer idleA0003" x="592" y="1033" width="290" height="486" frameX="-205" frameY="-69" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer idleA0004" x="1359" y="489" width="276" height="488" frameX="-188" frameY="-67" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer idleA0005" x="1359" y="489" width="276" height="488" frameX="-188" frameY="-67" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer idleA0006" x="882" y="1033" width="276" height="486" frameX="-182" frameY="-69" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer idleA0007" x="882" y="1033" width="276" height="486" frameX="-182" frameY="-69" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer idleB0000" x="270" y="536" width="265" height="495" frameX="-94" frameY="-60" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer idleB0001" x="270" y="536" width="265" height="495" frameX="-94" frameY="-60" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer idleB0002" x="822" y="0" width="270" height="499" frameX="-102" frameY="-56" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer idleB0003" x="535" y="536" width="270" height="495" frameX="-130" frameY="-60" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer idleB0004" x="0" y="536" width="270" height="497" frameX="-145" frameY="-58" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer idleB0005" x="0" y="536" width="270" height="497" frameX="-145" frameY="-58" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer idleB0006" x="805" y="536" width="273" height="493" frameX="-165" frameY="-62" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer idleB0007" x="805" y="536" width="273" height="493" frameX="-165" frameY="-62" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer right0000" x="755" y="1522" width="409" height="472" frameX="-187" frameY="-88" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer right0001" x="0" y="1522" width="388" height="478" frameX="-197" frameY="-82" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer right0002" x="388" y="1522" width="367" height="476" frameX="-200" frameY="-84" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer right0003" x="388" y="1522" width="367" height="476" frameX="-200" frameY="-84" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer left0000" x="1359" y="0" width="289" height="489" frameX="-96" frameY="-71" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer left0001" x="1092" y="0" width="267" height="491" frameX="-118" frameY="-69" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer left0002" x="1158" y="1033" width="276" height="485" frameX="-161" frameY="-75" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer left0003" x="1158" y="1033" width="276" height="485" frameX="-161" frameY="-75" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer idle0000" x="0" y="0" width="253" height="536" frameX="-153" frameY="-19" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer idle0001" x="253" y="0" width="274" height="529" frameX="-145" frameY="-26" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer idle0002" x="527" y="0" width="295" height="525" frameX="-137" frameY="-30" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer idle0003" x="527" y="0" width="295" height="525" frameX="-137" frameY="-30" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer down0000" x="1940" y="482" width="288" height="473" frameX="-191" frameY="-82" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer down0001" x="1648" y="0" width="292" height="485" frameX="-182" frameY="-70" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer down0002" x="0" y="1033" width="293" height="489" frameX="-178" frameY="-66" frameWidth="640" frameHeight="640" />
+<SubTexture name="composer down0003" x="0" y="1033" width="293" height="489" frameX="-178" frameY="-66" frameWidth="640" frameHeight="640" />
+</TextureAtlas>

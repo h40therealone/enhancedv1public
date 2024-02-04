@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"expression": "a",
+			"text": "HEY! YOU!! I know you!! What are you doing on my streets!",
+			"boxState": "normal",
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "die"
+		},
+		{
+			"expression": "talk",
+			"text": "uhhh? walking home? come on man I gotta go see my girlfriend.",
+			"boxState": "normal",
+			"sound": "b",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "a",
+			"text": "NO!!!! Not so fast! You can't just walk on my streets WITHOUT ASKING!!!!",
+			"boxState": "normal",
+			"sound": "a",
+			"speed": 0.015,
+			"portrait": "die"
+		},
+		{
+			"expression": "confused",
+			"text": "DUDE, I am walking home, I am not here to deal with your nonsense.",
+			"boxState": "normal",
+			"sound": "b",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "a",
+			"text": "you",
+			"boxState": "normal",
+			"sound": "a",
+			"speed": 0.05,
+			"portrait": "die"
+		},
+		{
+			"expression": "a",
+			"text": "You get off my streets right now! or, im gonna, wait... wheres my phone?",
+			"boxState": "normal",
+			"portrait": "die",
+			"speed": 0.05,
+			"sound": "a"
+		},
+		{
+			"expression": "pissed",
+			"text": "well... I heard your buddy dave took them from you maybe go ask him.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "b"
+		},
+		{
+			"expression": "talk",
+			"text": "I DON'T CARE GET OFF MY STREETS!!!!",
+			"boxState": "normal",
+			"portrait": "die",
+			"speed": 0.05,
+			"sound": "a"
+		},
+		{
+			"expression": "confused",
+			"text": "what happened to your corn farm dude, first it was your farm and now its your streets? like come on man.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.03,
+			"sound": "b"
+		},
+		{
+			"expression": "talk",
+			"text": "ok fine...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "b"
+		},
+		{
+			"expression": "talk",
+			"text": "if you win this song then I will, uhh get off your streets",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "b"
+		},
+		{
+			"expression": "talk",
+			"text": "YOUR GON GET OFF MY STREETS EITHER WAY!!!!!!",
+			"boxState": "normal",
+			"portrait": "die",
+			"speed": 0.05,
+			"sound": "a"
+		},
+		{
+			"expression": "talk",
+			"text": "but ok.",
+			"boxState": "normal",
+			"portrait": "die",
+			"speed": 0.05,
+			"sound": "a"
+		}
+	]
+}

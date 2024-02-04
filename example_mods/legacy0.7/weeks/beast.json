@@ -1,0 +1,32 @@
+{
+	"storyName": "consider this the finale...",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "beast",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "roadguy",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"the-beast",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "The Beast",
+	"hiddenUntilUnlocked": false
+}

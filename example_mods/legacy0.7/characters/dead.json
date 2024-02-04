@@ -1,0 +1,57 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				107,
+				111
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				107,
+				111
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "retry",
+			"indices": []
+		},
+		{
+			"offsets": [
+				107,
+				111
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "elim"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfi/dead",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}
